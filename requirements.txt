@@ -1,0 +1,5 @@
+# Core modules (mandatory)
+jupyterlab>=4.2.0
+
+# Formatter and linter
+ruff
